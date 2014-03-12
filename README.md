@@ -14,7 +14,7 @@ Once those are installed, just run "python switcharoo.py" to begin.
 
 * I've had reports from some users that the game may lock up on some Linux distros. If this happens to you, look for this line of code near the end of switcharoo.py:
 	
- #os.environ['SDL_AUDIODRIVER'] = 'pulseaudio' # silly Ubuntu workaround - hangs without this line!
+ \#os.environ['SDL_AUDIODRIVER'] = 'pulseaudio' # silly Ubuntu workaround - hangs without this line!
 		
  Remove the # at the beginning of the line, then save the file and try running it again. If that still doesn't work, try changing "pulseaudio" to "esd" - again, some people have reported that as a solution.
 	
