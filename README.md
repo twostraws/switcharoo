@@ -46,3 +46,14 @@ The Simple DirectMedia Layer (SDL for short) is a cross-platfrom library designe
 The Simple DirectMedia Layer library source code is available from: http://www.libsdl.org/
 
 This library is distributed under the terms of the GNU LGPL license: http://www.gnu.org/copyleft/lesser.html
+
+
+##  Recommended reading
+
+I've written a number of free tutorials you might enjoy reading:
+
+- [Learn React JS programming with this free tutorial](http://www.hackingwithreact.com)
+- [Learn PHP and MySQL programming with this free tutorial](http://www.hackingwithphp.com)
+- [Free tutorials to learn iOS app development using Swift](https://www.hackingwithswift.com)
+- [New features in Swift 2.2](https://www.hackingwithswift.com/swift2-2), [New features in Swift 2.0](https://www.hackingwithswift.com/swift2)
+- [Get free Swift tips and tricks with this example code](https://www.hackingwithswift.com/example-code)
